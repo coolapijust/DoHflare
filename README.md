@@ -1,3 +1,4 @@
+Todo：借鉴实现原理，移植至Docker容器；增加自动判断域名使用Cloudflare CDN并完成Ech配置注入
 ![DoHflare Banner](./assets/banner.jpg)
 <p align="right">
   <b>简体中文</b> | <a href="./README.en.md">English</a>
